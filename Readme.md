@@ -1,1 +1,1 @@
-this is the build of the 3D paltfromer game
+this is the build of the 3D platfromer game
